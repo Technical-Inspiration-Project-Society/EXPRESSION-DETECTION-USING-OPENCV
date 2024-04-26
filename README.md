@@ -1,4 +1,5 @@
 # EXPRESSION-DETECTION-USING-OPENCV
+![image](https://github.com/Technical-Inspiration-Project-Society/EXPRESSION-DETECTION-USING-OPENCV/assets/118530992/a48379f2-1cb1-4e8e-afa4-688513784b6c)
 
 ## Introduction:
 The aim of this report is to provide an overview of the development and implementation of a real-time expression detection application using OpenCV (Open Source Computer Vision Library). The application accesses the video camera feed and employs computer vision techniques to detect various facial expressions such as happy, sad, angry, surprised, and normal. This report outlines the methodology, implementation details, and results of the application.
